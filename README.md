@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   
   <br />
@@ -111,17 +111,3 @@ db.password=your_secure_password
 Deploy the application via Maven:
 ```bash
 mvn clean compile javafx:run
-```
-
-> **Administrative Access**
-> **Username:** admin
-> **Password:** Admin@123
-
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-=======
-# Student-Management-System
->>>>>>> ad87489267a32f3581fbbd99edaa34e29cb1cc3b
