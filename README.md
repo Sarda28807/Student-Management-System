@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   <br />
@@ -121,3 +122,6 @@ mvn clean compile javafx:run
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+=======
+# Student-Management-System
+>>>>>>> ad87489267a32f3581fbbd99edaa34e29cb1cc3b
