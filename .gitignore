@@ -1,0 +1,44 @@
+# ==========================
+# NovaStudent .gitignore
+# ==========================
+
+# Compiled class files
+*.class
+target/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+build/
+out/
+bin/
+
+# Configuration (contains credentials)
+config.properties
+
+# Exports
+exports/
+
+# Logs
+*.log
+logs/
+
+# OS Files
+Thumbs.db
+.DS_Store
+desktop.ini
